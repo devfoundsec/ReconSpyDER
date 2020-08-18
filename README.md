@@ -21,4 +21,4 @@ Esta é a versão 1.0 (beta) e está em fase de desenvolvimento.
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/werdelesmarcio/PyTCPScan?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/werdelesmarcio/PyTCPScan?style=for-the-badge">
 
 
-<center><img src = "https://github.com/Vault-Cyber-Security/ReconSpyDER/blob/master/Images/gnulinux-logo.png" width=400></center>
+<center><img src = "https://github.com/Vault-Cyber-Security/ReconSpyDER/blob/master/Images/gnulinux-logo.png" width=300></center>
