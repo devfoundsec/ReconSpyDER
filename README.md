@@ -1,8 +1,6 @@
 # ReconSpyDER
 
-<img alt="AppVeyor" src="https://ci.appveyor.com/api/projects/status/cf48frw5fvav00ro?svg=true">
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan&metric=alert_status)](https://sonarcloud.io/dashboard?id=werdelesmarcio_PyTCPScan)
+<img alt="AppVeyor" src="https://ci.appveyor.com/api/projects/status/cf48frw5fvav00ro?svg=true">  [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Vault-Cyber-Security_ReconSpyDER&metric=bugs)](https://sonarcloud.io/dashboard?id=Vault-Cyber-Security_ReconSpyDER)  [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Vault-Cyber-Security_ReconSpyDER&metric=security_rating)](https://sonarcloud.io/dashboard?id=Vault-Cyber-Security_ReconSpyDER)  [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Vault-Cyber-Security_ReconSpyDER&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=Vault-Cyber-Security_ReconSpyDER)  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Vault-Cyber-Security_ReconSpyDER&metric=alert_status)](https://sonarcloud.io/dashboard?id=Vault-Cyber-Security_ReconSpyDER)
 
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan">
 
