@@ -5,7 +5,7 @@ São por atitudes como essas que a comunidade de desenvolvimento de software liv
 
 ### Seguindo
 
-Se você notou algum bug ou tem alguma pergunta que não pertençam ao [mailing list].[] ou [Stack Overflow].[], [pesquise o Issue Tracker].[] para ver se alguém da comunidade já não tenha criado algum ticket.
+Se você notou algum bug ou tem alguma pergunta que não pertençam ao [mailing list] ou [Stack Overflow], [pesquise o Issue Tracker] para ver se alguém da comunidade já não tenha criado algum ticket.
 Senão, pode [criar].[new ussue]!
 
 ### Fork e Criação de Branchs
