@@ -28,7 +28,7 @@ Leia o [CONTRIBUTING.md](https://github.com/werdelesmarcio/pFlood/blob/master/Do
 ## Equipe de Desenvolvedores:
 * **Werdeles Soares**
 * **Julio Lira**
-* **Matheus de Oliveira
+* **Matheus de Oliveira**
 
 ## Licença: 
 ***Este projeto está sob Licença BSD-3.***
