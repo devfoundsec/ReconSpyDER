@@ -1,6 +1,6 @@
 # ReconSpyDER
 
-<img alt="AppVeyor" src="https://img.shields.io/appveyor/ci/werdelesmarcio/PyTCPScan">
+<img alt="AppVeyor" src="https://ci.appveyor.com/api/projects/status/cf48frw5fvav00ro?svg=true">
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan&metric=alert_status)](https://sonarcloud.io/dashboard?id=werdelesmarcio_PyTCPScan)
 
